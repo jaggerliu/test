@@ -1,4 +1,4 @@
 
 public class d {
-  d dd
+	  d  s
 }
